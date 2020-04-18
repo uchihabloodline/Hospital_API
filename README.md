@@ -1,7 +1,7 @@
 # Hospital_API
 Hospital_API is a backend project under the Covid-19 theme. 
 
-<h2> Running the Project </h2>
+<h2> Running the Project??, Steps 👇</h2>
 
 <ul>
   <li>clone the repository
